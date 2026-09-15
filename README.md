@@ -69,7 +69,17 @@ lib/
 
 * Leverages `AnimatedContainer` for smooth selection states, borders, and active shadows on category pills.
 
+<img width="1470" height="956" alt="Screenshot 2026-09-15 at 10 56 41 AM" src="https://github.com/user-attachments/assets/c33a2209-62a8-43db-a161-705dd338e072" />
 
+<img width="1470" height="956" alt="Screenshot 2026-09-15 at 10 56 58 AM" src="https://github.com/user-attachments/assets/cb97bdcc-552a-4fdc-ad14-808bc2ef2514" />
+
+<img width="1470" height="956" alt="Screenshot 2026-09-15 at 10 57 06 AM" src="https://github.com/user-attachments/assets/07105e33-c67f-4f29-ba65-ff83bf33a5b1" />
+
+<img width="1470" height="956" alt="Screenshot 2026-09-15 at 10 57 12 AM" src="https://github.com/user-attachments/assets/12b26a1a-76e8-4376-b56a-b5aa548905f2" />
+
+<img width="1470" height="956" alt="Screenshot 2026-09-15 at 10 57 18 AM" src="https://github.com/user-attachments/assets/5ea646a3-cb6b-4b04-83ba-7d273a4e18e6" />
+
+<img width="1470" height="956" alt="Screenshot 2026-09-15 at 10 57 24 AM" src="https://github.com/user-attachments/assets/14ca6aed-87fc-4802-a411-587757b654e1" />
 
 ---
 
